@@ -2,6 +2,7 @@
 CarRentalApp is a car rental mobile application built with Dart and Flutter. It includes features such as user account creation, sign-in, profile setup, location access, client-user chat, car selection based on trip destination, password security, and driver license display.
 
 Basic Features
+
 Account Creation and Sign-In: Users can create an account and sign in securely using authentication methods.
 Profile Setup: Users can set up their profile with personal information.
 Location Access: The app requests and utilizes users' current location to suggest nearby car rentals.
