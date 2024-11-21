@@ -29,3 +29,7 @@ Users can set the duration for which they want to rent a car.
 
 Car Features:
 Detailed car features are displayed, helping users choose the most suitable vehicle for their trip. https://drive.google.com/drive/folders/1SMpN-O6Izzz-unoGRr-8Yhe26NOQdU96?usp=sharing
+
+## Resources
+
+- [Figma Design](Figma.md)
